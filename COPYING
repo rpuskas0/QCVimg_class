@@ -1,0 +1,16 @@
+Copyright (C) Robert Puskas.  Licensed under the GPLv3.
+
+The project uses parts of the Qt library, which is at least licensed under:
+  * GPLv2
+  * GPLv3
+  * LGPLv3
+
+For more information on Qt licensing, please visit the Qt website.
+
+The project uses parts of the OpenCV library as well, which is licensed
+under the BSD license.
+
+For more information on Qt licensing, please visit the OpenCV website.
+
+All other files without any other explicit notice that were written as
+part of this project are intended to be licensed under the GPLv3.0. 
